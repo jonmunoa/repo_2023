@@ -1,0 +1,108 @@
+<?php
+function familyName($fname) {
+  echo "$fname Refsnes.<br>";
+}
+
+function addNumbers(int $a, int $b) {
+    return $a + $b;
+}
+echo addNumbers(5, "5 days");
+
+familyName("Jani");
+familyName("Hege");
+familyName("Stale");
+familyName("Kai Jim");
+familyName("Borge");
+familyName("Borge");
+familyName("Borge");
+familyName("Borge");
+familyName("Borge");
+familyName("Borge");
+familyName("Borge");
+familyName("Borge");
+familyName("Borge");
+familyName("Borge");
+familyName("Borge");
+familyName("Borge");
+familyName("Jani");
+familyName("Hege");
+familyName("Stale");
+familyName("Kai Jim");
+familyName("Borge");
+familyName("Borge");
+familyName("Borge");
+familyName("Borge");
+familyName("Borge");
+familyName("Borge");
+familyName("Borge");
+familyName("Borge");
+familyName("Borge");
+familyName("Borge");
+familyName("Borge");
+familyName("Borge");
+familyName("Jani");
+familyName("Hege");
+familyName("Stale");
+familyName("Kai Jim");
+familyName("Borge");
+familyName("Borge");
+familyName("Borge");
+familyName("Borge");
+familyName("Borge");
+familyName("Borge");
+familyName("Borge");
+familyName("Borge");
+familyName("Borge");
+familyName("Borge");
+familyName("Borge");
+familyName("Borge");
+familyName("Jani");
+familyName("Hege");
+familyName("Stale");
+familyName("Kai Jim");
+familyName("Borge");
+familyName("Borge");
+familyName("Borge");
+familyName("Borge");
+familyName("Borge");
+familyName("Borge");
+familyName("Borge");
+familyName("Borge");
+familyName("Borge");
+familyName("Borge");
+familyName("Borge");
+familyName("Borge");
+familyName("Jani");
+familyName("Hege");
+familyName("Stale");
+familyName("Kai Jim");
+familyName("Borge");
+familyName("Borge");
+familyName("Borge");
+familyName("Borge");
+familyName("Borge");
+familyName("Borge");
+familyName("Borge");
+familyName("Borge");
+familyName("Borge");
+familyName("Borge");
+familyName("Borge");
+familyName("Borge");
+familyName("Jani");
+familyName("Hege");
+familyName("Stale");
+familyName("Kai Jim");
+familyName("Borge");
+familyName("Borge");
+familyName("Borge");
+familyName("Borge");
+familyName("Borge");
+familyName("Borge");
+familyName("Borge");
+familyName("Borge");
+familyName("Borge");
+familyName("Borge");
+familyName("Borge");
+familyName("Borge");
+
+?>
